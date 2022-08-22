@@ -29,4 +29,4 @@ In this section, the questions below were answered amongst others
 * Does the increase in the number of wait days affect how patients show-up for their appointments? 
 * Does setting appointments on some particular days increase the chances of the patients showing up? (Are there days of the week when patients keep to the appointments most often?)
 
-Based on the results gotten from the analysis, some recommendations were made. The limitations of the dataset were also stated. 
+Based on the results gotten from the analysis, some recommendations were made. The limitations of the dataset were also stated.  
